@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nif-kun/feel-vibes-web-editor/main/index.144x144.png">
+</p>
+
 # FeelVibes - Editor
 An editor for FeelVibes website, designed to modify album art with sprite animation. Further updates will allow changable playback buttons and more.
 
